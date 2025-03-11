@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# HEAVEN OR HELL is an ANGEL GAME
 
-DO NOT LEAVE IT LIKE THIS!!!
+This is a game where you have to sit an angel on a pedestal standing face up. 
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+This project uses an ASCII level loader to make all its levels, file IO, and singletons. 
